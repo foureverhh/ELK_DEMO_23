@@ -1,0 +1,5 @@
+29-06-2023 15:17:06.220 [main] INFO  se.skolverket.elk.ElkApplication.logStarting - Starting ElkApplication using Java 17.0.7 with PID 29028 (C:\Users\liyuan\Downloads\elk\elk\target\classes started by liyuan in C:\Users\liyuan\Downloads\elk)
+29-06-2023 15:17:06.227 [main] INFO  se.skolverket.elk.ElkApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+29-06-2023 15:17:07.494 [main] INFO  se.skolverket.elk.ElkApplication.logStarted - Started ElkApplication in 1.73 seconds (process running for 2.462)
+29-06-2023 15:18:11.710 [http-nio-8080-exec-1] INFO  s.s.elk.controller.ELKController.helloWorld - Inside Hello World Function
+29-06-2023 15:18:11.711 [http-nio-8080-exec-1] INFO  s.s.elk.controller.ELKController.helloWorld - Response => Hello World! Thu Jun 29 15:18:11 CEST 2023
